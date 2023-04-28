@@ -7,3 +7,5 @@ In full professional retraining in the world of development, I am training at Th
 Skills: HTML / CSS / BOOSTRAP / RUBY
 
 - 🔭 I’m currently working on this page.  
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
