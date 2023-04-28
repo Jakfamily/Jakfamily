@@ -8,4 +8,4 @@ Skills: HTML / CSS / BOOSTRAP / RUBY
 
 - 🔭 I’m currently working on this page.  
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
