@@ -8,4 +8,4 @@ Skills: HTML5 CSS3 Ruby
 
 - 🔭 I’m currently working on this page.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakfamily)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakfamily&show_icons=true&theme=github_dark))](https://github.com/anuraghazra/github-readme-stats)
