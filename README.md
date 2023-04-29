@@ -7,3 +7,5 @@ In full professional retraining in the world of development, I am training at Th
 Skills: HTML5 CSS3 Ruby  
 
 - 🔭 I’m currently working on this page.  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakfamily)](https://github.com/anuraghazra/github-readme-stats)
