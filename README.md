@@ -7,12 +7,11 @@ Skills: HTML5 CSS3 Ruby
 - 🔭 je travaille actuellement sur cette page 
 - 🔭 je suis en pleine apprentissage de ruby
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakfamily&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakfamily&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakfamily&label=Profile%20views&color=0e75b6&style=flat" alt="jakfamily" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
