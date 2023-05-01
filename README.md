@@ -7,8 +7,6 @@ Skills: HTML5 CSS3 Ruby
 - 🔭 je travaille actuellement sur cette page 
 - 🔭 je suis en pleine apprentissage de ruby
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakfamily&label=Profile%20views&color=0e75b6&style=flat" alt="jakfamily" /> </p>
 
 
