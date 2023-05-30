@@ -5,7 +5,8 @@ En pleine reconversion professionnelle dans le monde du développement, je suis 
 Skills: HTML5 CSS3 Ruby  
 
 - 🔭 je travaille actuellement sur cette page 
-- 🔭 je suis en pleine apprentissage de ruby
+- 🔭 je suis en pleine apprentissage de python ,javascript
+- 🔭 je travaille actuellement sur un projet de groupe 
 
 
 
