@@ -6,7 +6,8 @@ Skills: HTML5 CSS3 Ruby
 
 - 🔭 je travaille actuellement sur cette page 
 - 🔭 je suis en pleine apprentissage de python ,javascript
-- 🔭 je travaille actuellement sur un projet de groupe 
+- 🔭 je travaille actuellement sur un projet de groupe miaouProject
+-  🔭 je travaille actuellement sur un projet XOXO gossip project v1
 
 
 
