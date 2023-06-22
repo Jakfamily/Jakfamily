@@ -5,8 +5,8 @@ En pleine reconversion professionnelle dans le monde du développement, je suis 
 
 - 🔭 je travaille actuellement sur cette page 
 - 🔭 je suis en pleine apprentissage de python ,javascript
-- 🔭 je travaille actuellement sur un projet de groupe miaouProject
-- 🔭 je travaille actuellement sur un projet XOXO gossip project v1
+- 🔭 je travaille actuellement sur un projet de au-delà d'elles
+
 
 
 
