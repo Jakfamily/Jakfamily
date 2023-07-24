@@ -4,7 +4,7 @@ En pleine reconversion professionnelle dans le monde du développement, je suis 
 
 
 - 🔭 je travaille actuellement sur cette page 
-- 🔭 je suis en pleine apprentissage de python ,javascript
+- 🔭 je suis en pleine apprentissage de javascript , react 
 - 🔭 
 
 
