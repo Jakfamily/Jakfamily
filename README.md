@@ -1,6 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm jean-baptiste</h1>
-<h3 align="center">A passionate cybersecurity</h3>
+![Header](./img/github-header-image (4).png)
 
 En pleine reconversion professionnelle dans le monde du développement, je suis en formation chez The Hacking Project. Cette formation me permet d'apprendre en peer learning et de pouvoir apprendre en créant des projets en équipe. Grâce à ma volonté, ma motivation et le soutien de mon équipe, j'arrive à surmonter chaque projet avec brio et c'est un réel plaisir de continuer à apprendre.
 
