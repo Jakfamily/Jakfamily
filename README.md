@@ -4,9 +4,8 @@ En pleine reconversion professionnelle dans le monde du développement, je suis 
 
 
 - 🔭 je travaille actuellement sur cette page 
-- 🔭 je suis en pleine apprentissage de javascript , react 
-- 🔭 
-
+- 🔭 je suis en pleine apprentissage de pyhton
+- 🔭 je suis en pleine apprentissage de la cyber securiter via htb academy, pentesterlab, portswinger
 
 
 
