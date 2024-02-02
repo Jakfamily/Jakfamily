@@ -4,10 +4,10 @@ En pleine reconversion professionnelle dans le monde du développement,
 apres avoir suivie la formation devellopeur de The Hacking Project qui ma permit d'apprendre en peer learning et egalement ma appris le travaille d'equipe avec de nombreux projet. Suite a cela je me suis lancer dans l'apprentissage de wordpress avec la formation integrateur wordpress d'openclassroom Cette formation me permet d'apprendre tous les ficelle lier a wordpress mais bien plus , du php au scss au js et a l'integration de maquette figma. Grâce à ma volonté, ma motivation et le soutien de mon équipe, j'arrive à surmonter chaque projet avec brio et c'est un réel plaisir de continuer à apprendre.
 
 
--🔭 je travaille actuellement sur cette page 
--🔭 apprentissage de python autodidacte
--🔭 apprentissage de wordpress js php openclassroom
--🔭 passionee par la cyber securiter j'exerce via htb academy, pentesterlab, portswinger 
+-🔭 je travaille actuellement sur cette page  
+-🔭 apprentissage de python autodidacte  
+-🔭 apprentissage de wordpress js php openclassroom  
+-🔭 passionee par la cyber securiter j'exerce via htb academy, pentesterlab, portswinger   
 
 
 <p align="left"> <a href="https://twitter.com/jiibiibiiboys" target="blank"><img src="https://img.shields.io/twitter/follow/jiibiibiiboys?logo=twitter&style=for-the-badge" alt="jiibiibiiboys" /></a> </p>
