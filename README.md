@@ -5,8 +5,7 @@ apres avoir suivie la formation devellopeur de The Hacking Project qui ma permit
 
 
 -🔭 je travaille actuellement sur cette page  
--🔭 apprentissage de python autodidacte  
--🔭 apprentissage de wordpress js php openclassroom  
+-🔭 apprentissage de c# autodidacte   
 -🔭 passionee par la cyber securiter j'exerce via htb academy, pentesterlab, portswinger   
 
 
