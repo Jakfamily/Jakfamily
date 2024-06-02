@@ -11,7 +11,7 @@ N'hésitez pas à explorer mes projets et à me contacter pour toute collaborati
 
 
 -🔭 je travaille actuellement sur cette page  
--🔭 apprentissage de python   
+-🔭 apprentissage de c++ 
 -🔭 passionee par la cyber securiter j'exerce via htb academy, pentesterlab, portswinger   
 
 
