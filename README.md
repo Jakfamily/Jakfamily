@@ -11,8 +11,10 @@ Aujourd'hui, je suis animé par une nouvelle passion : la cybersécurité et l'a
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité professionnelle.
 
 
--🔭 je travaille actuellement sur cette page  
+-🔭 je travaille actuellement sur cette page 
+
 -🔭 apprentissage de c 
+
 -🔭 passionee par la cyber securiter j'exerce via tryhackme, htb academy, pentesterlab, portswigger   
 
 
