@@ -1,22 +1,19 @@
 ![Header](/img/github-header-dev.png)
-
 Bienvenue sur mon profil GitHub !
-
+ 
 Je suis un développeur passionné, diplômé d'un Bac +2 en développement fullstack. Après une formation réussie à The Hacking Project et une formation de développeur WordPress chez OpenClassrooms, j'ai acquis une solide expertise en développement front-end, ainsi que des compétences en PHP, SCSS, JavaScript et l'intégration de maquettes Figma.
-
+ 
 Mon parcours d'apprentissage en peer learning et mes projets collaboratifs m'ont permis de développer des compétences essentielles en travail d'équipe et en résolution de problèmes techniques.
-
-Aujourd'hui, je suis animé par une nouvelle passion : la cybersécurité et l'administration des systèmes et réseaux. Convaincu que ma solide base en développement, associée à ma détermination à réussir dans ce nouveau domaine, feront de moi un atout précieux pour toute équipe, je suis actuellement à la recherche d'une alternance en administration systèmes et réseaux et en sécurité.
-
+ 
+Aujourd'hui, je suis animé par une nouvelle passion : la cybersécurité et l'administration des systèmes et réseaux. Convaincu que ma solide base en développement, associée à ma détermination à réussir dans ce nouveau domaine, fera de moi un atout précieux pour toute équipe. Je suis actuellement à la recherche d'une alternance en administration des systèmes et réseaux et en sécurité.
+ 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité professionnelle.
-
-
--🔭 je travaille actuellement sur cette page 
-
--🔭 apprentissage de .....
-
--🔭 passionee par la cyber securiter j'exerce via tryhackme, htb academy, pentesterlab, portswigger   
-
+ 
+ 🔭 Je travaille actuellement sur cette page.
+ 
+ 🔭 J'apprends actuellement de nouvelles compétences.
+ 
+ 🔭 Passionné par la cybersécurité, je m'exerce via TryHackMe, HTB Academy, PentesterLab, et PortSwigger.
 
 <p align="left"> <a href="https://twitter.com/jiibiibiiboys" target="blank"><img src="https://img.shields.io/twitter/follow/jiibiibiiboys?logo=twitter&style=for-the-badge" alt="jiibiibiiboys" /></a> </p>
 
