@@ -11,7 +11,7 @@ N'hésitez pas à explorer mes projets et à me contacter pour toute collaborati
  
  🔭 Je travaille actuellement sur cette page.
  
- 🔭 J'apprends actuellement de nouvelles compétences.
+ 🔭 J'apprends actuellement sur projet de grande envergure, Auto-Host DevOps
  
  🔭 Passionné par la cybersécurité, je m'exerce via TryHackMe, HTB Academy, PentesterLab, et PortSwigger.
 
