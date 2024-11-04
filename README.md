@@ -11,7 +11,7 @@ N'hésitez pas à explorer mes projets et à me contacter pour toute collaborati
  
  🔭 Je travaille actuellement sur cette page.
  
- 🔭 Je travaille actuellement sur projet de grande envergure, Auto-Host DevOps
+ 🔭 Je travaille actuellement sur le projet Auto-Host DevOps, où je bâtis une infrastructure complète, de la conception initiale jusqu'à la création et le déploiement d'un site web, le tout avec une approche DevOps.
  
  🔭 Passionné par la cybersécurité, je m'exerce via TryHackMe, HTB Academy, PentesterLab, et PortSwigger.
 
