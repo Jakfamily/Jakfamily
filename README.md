@@ -11,7 +11,7 @@ I’ve recently discovered a new passion for cybersecurity and system & network 
 To deepen my focus on system administration and DevOps, I’ve decided to specialize in **Azure**. Feel free to explore my projects and reach out for any collaboration or professional opportunities.
 
 - 🔭 I’m currently working on this page.  
-- 🔭 I’m developing the **Auto-Host DevOps** project, where I build a complete infrastructure—from initial design to creating and deploying a website—with a DevOps approach.  
+- 🔭 I’m currently developing a hardened image in accordance with DISA STIG, CIS Benchmark, and ANSSI guidelines. 
 - 🔭 Passionate about cybersecurity, I practice on **TryHackMe**, **HTB Academy**, **PentesterLab**, and **PortSwigger**.
 
 <p align="left"> <a href="https://twitter.com/jiibiibiiboys" target="blank"><img src="https://img.shields.io/twitter/follow/jiibiibiiboys?logo=twitter&style=for-the-badge" alt="jiibiibiiboys" /></a> </p>
