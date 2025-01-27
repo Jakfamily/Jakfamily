@@ -1,6 +1,5 @@
 ![Header](img/github-header-image.png)
-Bienvenue sur mon profil GitHub !
- 
+
 **Welcome to my GitHub profile!**
 
 I’m a passionate developer with a two-year degree (Bac+2) in full-stack development. After completing a training program at The Hacking Project and a WordPress developer course at OpenClassrooms, I gained solid expertise in front-end development, as well as skills in PHP, SCSS, JavaScript, and Figma mockup integration.
