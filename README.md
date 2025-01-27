@@ -1,4 +1,4 @@
-![Header](image/header-image-name.png)
+![Header](img/header-image-name.png)
 Bienvenue sur mon profil GitHub !
  
 Je suis un développeur passionné, diplômé d'un Bac +2 en développement fullstack. Après une formation réussie à The Hacking Project et une formation de développeur WordPress chez OpenClassrooms, j'ai acquis une solide expertise en développement front-end, ainsi que des compétences en PHP, SCSS, JavaScript et l'intégration de maquettes Figma.
