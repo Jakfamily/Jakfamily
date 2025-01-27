@@ -1,19 +1,19 @@
 ![Header](img/github-header-image.png)
 Bienvenue sur mon profil GitHub !
  
-Je suis un développeur passionné, diplômé d'un Bac +2 en développement fullstack. Après une formation réussie à The Hacking Project et une formation de développeur WordPress chez OpenClassrooms, j'ai acquis une solide expertise en développement front-end, ainsi que des compétences en PHP, SCSS, JavaScript et l'intégration de maquettes Figma.
- 
-Mon parcours d'apprentissage en peer learning et mes projets collaboratifs m'ont permis de développer des compétences essentielles en travail d'équipe et en résolution de problèmes techniques.
- 
-Aujourd'hui, je suis animé par une nouvelle passion : la cybersécurité et l'administration des systèmes et réseaux. Convaincu que ma solide base en développement, associée à ma détermination à réussir dans ce nouveau domaine, fera de moi un atout précieux pour toute équipe. Je suis actuellement à la recherche d'une alternance en administration des systèmes et réseaux et en sécurité.
- 
-N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité professionnelle.
- 
- 🔭 Je travaille actuellement sur cette page.
- 
- 🔭 Je travaille actuellement sur le projet Auto-Host DevOps, où je bâtis une infrastructure complète, de la conception initiale jusqu'à la création et le déploiement d'un site web, le tout avec une approche DevOps.
- 
- 🔭 Passionné par la cybersécurité, je m'exerce via TryHackMe, HTB Academy, PentesterLab, et PortSwigger.
+**Welcome to my GitHub profile!**
+
+I’m a passionate developer with a two-year degree (Bac+2) in full-stack development. After completing a training program at The Hacking Project and a WordPress developer course at OpenClassrooms, I gained solid expertise in front-end development, as well as skills in PHP, SCSS, JavaScript, and Figma mockup integration.
+
+My peer-learning journey and collaborative projects have sharpened my teamwork abilities and technical problem-solving skills.
+
+I’ve recently discovered a new passion for cybersecurity and system & network administration. I’m convinced that my strong development background, combined with my determination to excel in these fields, will make me a valuable asset to any team. I’m currently looking for an apprenticeship in system & network administration and security.
+
+To deepen my focus on system administration and DevOps, I’ve decided to specialize in **Azure**. Feel free to explore my projects and reach out for any collaboration or professional opportunities.
+
+- 🔭 I’m currently working on this page.  
+- 🔭 I’m developing the **Auto-Host DevOps** project, where I build a complete infrastructure—from initial design to creating and deploying a website—with a DevOps approach.  
+- 🔭 Passionate about cybersecurity, I practice on **TryHackMe**, **HTB Academy**, **PentesterLab**, and **PortSwigger**.
 
 <p align="left"> <a href="https://twitter.com/jiibiibiiboys" target="blank"><img src="https://img.shields.io/twitter/follow/jiibiibiiboys?logo=twitter&style=for-the-badge" alt="jiibiibiiboys" /></a> </p>
 
